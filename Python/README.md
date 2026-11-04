@@ -21,7 +21,6 @@ This folder contains my Python programming practice and learning.
 - SciPy – Scientific Computing
 
 ## Goals
-- Strengthen Python programming skills.
+To strengthen my Python programming skills and build a strong foundation for software development
 - Learn important Python libraries.
-- Improve problem-solving abilities.
-  
+
